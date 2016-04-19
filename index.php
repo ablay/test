@@ -205,6 +205,8 @@
 			</div>
 			<div style="clear: both;"></div>
 		</div>
+		<p>for git</p>  <p>for git</p>
+		<p>for git</p>
 		<p>for git</p>
 	</body>
 </html>
